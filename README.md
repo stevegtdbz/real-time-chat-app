@@ -1,4 +1,4 @@
-# Real-Chat-App
+# Real-Time-Chat-App
 A simple web app for real time chat messages!
 Written in php / mysql / jquery / bootstrap.
 
